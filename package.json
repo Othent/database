@@ -1,0 +1,17 @@
+{
+  "name": "exm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "deploy.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@execution-machine/sdk": "^0.1.8",
+    "dotenv": "^16.0.3",
+    "fs": "^0.0.1-security"
+  }
+}

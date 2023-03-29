@@ -20,3 +20,4 @@ const state = {
 const functionID = await exm.functions.deploy(functionSource, state, ContractType.JS);
 writeFileSync('./functionID.js', functionID.id)
 console.log(functionID);
+
